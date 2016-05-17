@@ -1,0 +1,25 @@
+﻿<Window x:Class="JSON_Newtonsoft.Json.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JSON_Newtonsoft.Json"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="603.217">
+    <Grid>
+        <Label x:Name="label" Content="JSON" HorizontalAlignment="Left" Margin="43,56,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label_Copy" Content="Nombre: " HorizontalAlignment="Left" Margin="43,87,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.53,2.205"/>
+        <Label x:Name="label_Copy1" Content="Apellido: " HorizontalAlignment="Left" Margin="43,118,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.633,3.347"/>
+        <Label x:Name="label_Copy2" Content="Email: " HorizontalAlignment="Left" Margin="43,149,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.489,4.983"/>
+        <Label x:Name="label_Copy3" Content="Teléfono: " HorizontalAlignment="Left" Margin="43,180,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnDecodificar" Content="Decodificar JSON" HorizontalAlignment="Left" Margin="123,248,0,0" VerticalAlignment="Top" Width="139" Click="btnDecodificar_Click"/>
+        <Button x:Name="btnCrear" Content="Crear JSON" HorizontalAlignment="Left" Margin="334,248,0,0" VerticalAlignment="Top" Width="113" Click="btnCrear_Click"/>
+        <TextBox x:Name="tbJson" HorizontalAlignment="Left" Height="23" Margin="109,56,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="446"/>
+        <TextBox x:Name="tbNombre" HorizontalAlignment="Left" Height="23" Margin="109,87,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbApellido" HorizontalAlignment="Left" Height="23" Margin="109,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbEmail" HorizontalAlignment="Left" Height="23" Margin="109,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbTelefono" HorizontalAlignment="Left" Height="23" Margin="109,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="lista" HorizontalAlignment="Left" Height="100" Margin="285,103,0,0" VerticalAlignment="Top" Width="270"/>
+
+    </Grid>
+</Window>

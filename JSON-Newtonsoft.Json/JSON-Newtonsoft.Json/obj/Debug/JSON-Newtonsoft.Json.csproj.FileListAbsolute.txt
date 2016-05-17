@@ -1,0 +1,16 @@
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\bin\Debug\JSON-Newtonsoft.Json.exe.config
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\bin\Debug\JSON-Newtonsoft.Json.exe
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\bin\Debug\JSON-Newtonsoft.Json.pdb
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\bin\Debug\Newtonsoft.Json.dll
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\bin\Debug\Newtonsoft.Json.xml
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON-Newtonsoft.Json.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\MainWindow.g.cs
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\App.g.cs
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON-Newtonsoft.Json_MarkupCompile.cache
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON-Newtonsoft.Json_MarkupCompile.lref
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\MainWindow.baml
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON-Newtonsoft.Json.g.resources
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON_Newtonsoft.Json.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON-Newtonsoft.Json.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON-Newtonsoft.Json.exe
+c:\users\david\documents\visual studio 2015\Projects\JSON-Newtonsoft.Json\JSON-Newtonsoft.Json\obj\Debug\JSON-Newtonsoft.Json.pdb
